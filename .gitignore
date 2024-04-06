@@ -1,0 +1,5 @@
+django_advanced
+db.sqlite3
+migrations
+.DS_Store
+__pycache__
