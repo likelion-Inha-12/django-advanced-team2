@@ -1,4 +1,9 @@
 # 장고 심화세션 2팀 과제 레포
+## API 1 회원 생성 : 염종섭
+![회원 정보 수정](https://github.com/likelion-Inha-12/django-advanced-team2/blob/main/images/api1_1.JPG)
+
+## API 2 회원 정보 조회 : 염종섭
+![회원 정보 수정](https://github.com/likelion-Inha-12/django-advanced-team2/blob/main/images/api2_1.JPG)
 
 ## API 3 회원 정보 수정 : 김기현
 ![회원 정보 수정](https://github.com/likelion-Inha-12/django-advanced-team2/blob/main/images/api_3.png)
