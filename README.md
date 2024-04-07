@@ -1,6 +1,11 @@
 # 장고 심화세션 2팀 과제 레포
 
-
+## API 3 회원 정보 수정 : 김기현
+![회원 정보 수정](https://github.com/likelion-Inha-12/django-advanced-team2/blob/main/images/api_3.png)
+## API 4 회원 삭제 : 김기현
+![회원 삭제](https://github.com/likelion-Inha-12/django-advanced-team2/blob/main/images/api_4.png)
+## API 5 하트 누르기 : 김기현
+![하트 누르기](https://github.com/likelion-Inha-12/django-advanced-team2/blob/main/images/api_5.png)
 ## API 6 대표 임명, 박탈 : 오다솔
 ![대표 임명](https://github.com/likelion-Inha-12/django-advanced-team2/blob/fivedasol/api_6%20(1).png)
 ![대표 중복](https://github.com/likelion-Inha-12/django-advanced-team2/blob/fivedasol/api_6%20(2).png)
